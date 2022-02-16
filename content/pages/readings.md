@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 059df0bd-6f74-990d-6349-f497b70c5c22
 ---
@@ -310,7 +313,7 @@ _Cases: Badme and the Gulf Islands
   
 _Abbink, J. "Briefing: The Eritrean-Ethiopian Border Dispute." _African Affairs_ 97, no. 389 (October 1998): 551-565.  
   
-Mobley, Richard. "Deterring Iran, 1968-71: The Royal Navy, Iran and the Disputed Persian Gulf Islands." _Naval War College Review_ 61, no. 4 (Autumn 2003): 107-119. ([PDF](http://www.dtic.mil/dtic/tr/fulltext/u2/a523704.pdf))#
+Mobley, Richard. "Deterring Iran, 1968-71: The Royal Navy, Iran and the Disputed Persian Gulf Islands." _Naval War College Review_ 61, no. 4 (Autumn 2003): 107-119. ([PDF](http://www.dtic.mil/dtic/tr/fulltext/u2/a523704.pdf)){{< sup "#" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
