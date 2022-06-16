@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the research paper that is the
+  main requirement of the seminar.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
