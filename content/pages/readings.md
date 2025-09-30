@@ -52,7 +52,7 @@ Anderson, Malcolm. *Frontiers: Territory And State Formation In The Modern World
 
 Huth, Paul K., and Todd Allee. *The Democratic Peace and Territorial Conflict in the Twentieth Century*. Cambridge, UK: Cambridge University Press, 2003, app. A. ISBN: 9780521805087.
 
-Hensel, Paul, and Sara McLaughlin Mitchell. "[The Issue Correlates of War](http://www.paulhensel.org/icow.html)."
+Hensel, Paul, and Sara McLaughlin Mitchell. "{{% resource_link "b6f4bf54-b3e8-40f3-9570-eb27ab2849d9" "The Issue Correlates of War" %}}."
 
 *Quantitative Research on Territory and War*
 
@@ -120,7 +120,7 @@ Lustick, Ian. *Unsettled States, Disputed Lands: Britain And Ireland, France And
 
 Posen, Barry R. "Nationalism, the Mass Army, and Military Power." *International Security* 18, no. 2. (Autumn 1993): 80-124.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262523158) Brown, Michael. "The Causes of Internal Conflict: An Overview." In [*Nationalism and Ethnic Conflict*](https://mitpress.mit.edu/9780262523158). Edited by Michael Brown, et. al. Cambridge, MA: MIT Press, 2001, pp. 3-25. ISBN: 9780262523158.
+{{% resource_link "3316325f-514f-49c0-9166-997bf531dd16" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Brown, Michael. "The Causes of Internal Conflict: An Overview." In {{% resource_link "3316325f-514f-49c0-9166-997bf531dd16" "*Nationalism and Ethnic Conflict*" %}}. Edited by Michael Brown, et. al. Cambridge, MA: MIT Press, 2001, pp. 3-25. ISBN: 9780262523158.
 
 *Boundary Management*
 
@@ -194,7 +194,7 @@ Sources I: Territoriality, Nationalism and Homelands
 
 Goemans, Henk. "Territoriality, Territorial Attachment and Conflict." In *Territoriality and Conflict in an Era of Globalization*. Edited by Miles Kahler, and Barbara Walter. Cambridge, UK: Cambridge University Press, forthcoming.
 
-Duffy Toft, Monica. "[Indivisible Territory and Ethnic War](http://www.wcfia.harvard.edu/node/546)." Working paper, Weatherhead Center for International Affairs, Harvard University, Cambridge, 2001.
+Duffy Toft, Monica. "{{% resource_link "d75504d6-1921-4779-b3f0-4b1858f5d8c2" "Indivisible Territory and Ethnic War" %}}." Working paper, Weatherhead Center for International Affairs, Harvard University, Cambridge, 2001.
 
 Anderson, James. "Nationalist Ideology and Territory." In *Nationalism, Self-Determination and Political Geography*. Edited by R. J. Johnston, David B. Knight, and Eleonore Kofman. London, UK: Routledge Kegan & Paul, 1988, pp. 18-40. ISBN: 9780709914808.
 
@@ -280,7 +280,7 @@ Schroeder, Paul W. "The 19th-Century International System: Changes in the Struct
 
 Abbink, J. "Briefing: The Eritrean-Ethiopian Border Dispute." *African Affairs* 97, no. 389 (October 1998): 551-565.
 
-Mobley, Richard. "Deterring Iran, 1968-71: The Royal Navy, Iran and the Disputed Persian Gulf Islands." *Naval War College Review* 61, no. 4 (Autumn 2003): 107-119. ([PDF](http://www.dtic.mil/dtic/tr/fulltext/u2/a523704.pdf)){{< sup "#" >}}
+Mobley, Richard. "Deterring Iran, 1968-71: The Royal Navy, Iran and the Disputed Persian Gulf Islands." *Naval War College Review* 61, no. 4 (Autumn 2003): 107-119. ({{% resource_link "d73af2cb-a50d-4f15-8e13-f46fdb02a9a3" "PDF" %}}){{< sup "#" >}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
