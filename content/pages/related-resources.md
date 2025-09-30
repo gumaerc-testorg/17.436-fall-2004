@@ -11,10 +11,10 @@ uid: 1e289c5a-aaec-8013-c5f1-ddd2553cfa36
 Web sites
 ---------
 
-[International Boundaries Research Unit](https://www.dur.ac.uk/ibru/), University of Durham
+{{% resource_link "4c6e49e5-fbfe-455b-92c7-097408d4c368" "International Boundaries Research Unit" %}}, University of Durham
 
-U.S. Department of State, [International Boundary Studies](http://fall.fsulawrc.com/collection/LimitsinSeas/numerical.html)
+U.S. Department of State, {{% resource_link "6646d6b4-4d87-4d67-87e4-27f3941a263b" "International Boundary Studies" %}}
 
-[Paul Hensel's Homepage](http://www.paulhensel.org/icow.html)
+{{% resource_link "b6f4bf54-b3e8-40f3-9570-eb27ab2849d9" "Paul Hensel's Homepage" %}}
 
-[International Court of Justice](http://www.icj-cij.org/)
+{{% resource_link "d6a25190-ae27-4676-9008-5d61b5ee19d6" "International Court of Justice" %}}
